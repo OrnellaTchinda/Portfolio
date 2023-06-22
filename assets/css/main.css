@@ -2898,6 +2898,14 @@ ul.posts article header> :last-child {
 	font-size: 1.5em;
 }
 
+.post>header .title .techUsed {
+	font-weight: 400;
+	font-size: 0.7em;
+	text-align: end;
+	letter-spacing: 0.08rem;
+}
+
+
 .post>header .title> :last-child {
 	margin-bottom: 0;
 }
@@ -3024,6 +3032,13 @@ ul.posts article header> :last-child {
 		padding: 0;
 		text-align: center;
 	}
+
+	.post>header .title .techUsed {
+		-ms-flex: 0 1 auto;
+		padding: 0;
+		text-align: center;
+	}
+
 
 	.post>header .meta {
 		-moz-align-items: center;

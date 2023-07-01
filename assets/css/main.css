@@ -2903,6 +2903,8 @@ ul.posts article header> :last-child {
 	font-size: 0.7em;
 	text-align: end;
 	letter-spacing: 0.08rem;
+	padding-left: 23rem;
+	line-height: 1.3;
 }
 
 
